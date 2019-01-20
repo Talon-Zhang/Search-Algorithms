@@ -1,8 +1,3 @@
-# CS 440 MP1: Search
-
-## Implement:
-Write your search algorithms in *search.py* and do not edit any other files, except for testing.
-
 ## Requirements:
 ```
 python3
